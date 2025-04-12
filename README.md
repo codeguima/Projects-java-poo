@@ -1,2 +1,2 @@
-# Projects-java-poo
- Repositorio de projetos em java para o estudo de Programação orientada á objetos
+# Projects-pratic-poo-java
+Repositorio de projetos praticos orientados á objetos
